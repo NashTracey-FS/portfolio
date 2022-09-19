@@ -6,7 +6,7 @@ p,a{font-size:1.6rem}
 a{text-decoration:none}
 a:hover{transition:all 0.3s ease-in-out}
 .section-title{margin-bottom:4.5rem;font-size:4rem;text-transform:uppercase}
-@media (max-width: 37.5em){.section-title{font-size:2.8rem}}.dark-blue-color{color:#302341}.text-color-main{margin-left:1rem;color:#c59fe9;-webkit-text-fill-color:#b377d6}@supports (background-clip: text) or (-webkit-background-clip: text){.text-color-main{background-image:linear-gradient(135deg, #d1b3eb 0%, #8f45df 100%);
+@media (max-width: 37.5em){.section-title{font-size:2.8rem}}.dark-blue-color{color:#382552}.text-color-main{margin-left:1rem;color:#c59fe9;-webkit-text-fill-color:#b377d6}@supports (background-clip: text) or (-webkit-background-clip: text){.text-color-main{background-image:linear-gradient(135deg, #d1b3eb 0%, #8f45df 100%);
     -webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;color:transparent}}@media (max-width: 37.5em){.text-color-main{margin:0;background-image:none;-webkit-text-fill-color:#995be5;box-shadow:none}}.cta-btn{display:inline-block;
         position:relative;
         padding:0.8rem 1.6rem;
